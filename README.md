@@ -10,8 +10,11 @@ The logic for searching can be found in the controller: SearchController.
 Search Parameters are:
 
 •	Distance - radius (high weightage)
+
 •	Budget - (high weightage)
+
 •	Number of bedrooms  -(low weightage)
+
 •	Number of bathrooms - (Low weightage)
 
 # Mattching
