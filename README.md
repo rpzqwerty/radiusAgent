@@ -17,7 +17,7 @@ Search Parameters are:
 
 •	Number of bathrooms - (Low weightage)
 
-# Mattching
+# Matching
 •	Each match has a percentage that indicates the quality of the match. Ex: if a property exactly matches a buyers search requirement       for all 4 constraints mentioned above, it’s a 100% match.  
 
 •	Each property has these 6 attributes - Id, Latitude, Longitude, Price, Number of bedrooms, Number of bathrooms
